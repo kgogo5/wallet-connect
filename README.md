@@ -11,7 +11,15 @@
 
 ### 설치 방법
 
-- npm install @web3modal/wagmi wagmi viem @tanstack/react-query
-- yarn add @web3modal/wagmi wagmi viem @tanstack/react-query
-- bun add @web3modal/wagmi wagmi viem @tanstack/react-query
-- pnpm add @web3modal/wagmi wagmi viem @tanstack/react-query
+```
+npm install @web3modal/wagmi wagmi viem @tanstack/react-query
+```
+```
+yarn add @web3modal/wagmi wagmi viem @tanstack/react-query
+```
+```
+bun add @web3modal/wagmi wagmi viem @tanstack/react-query
+```
+```
+pnpm add @web3modal/wagmi wagmi viem @tanstack/react-query
+```
